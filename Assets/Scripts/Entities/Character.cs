@@ -9,10 +9,6 @@ public class Character : Unit
 
     float verticalInput;
 
-    void Start()
-    {
-    }
-
     // Update is called once per frame
     void Update()
     {
